@@ -16,8 +16,8 @@
 - MySQL
 
 📫 Connect with me:
-- GitHub: https://github.com/yourusername
-- Email: your@email.com
+- GitHub: https://github.com/lozi212
+- Email: lozademeke53@email.com
 
 ## About Me
 I am a passionate Information Systems student who enjoys building websites, learning new technologies, and solving real-world problems through software. I am always eager to improve my skills and work on exciting projects.
