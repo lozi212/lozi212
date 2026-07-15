@@ -21,8 +21,13 @@
 
 ## About Me
 I am a passionate Information Systems student who enjoys building websites, learning new technologies, and solving real-world problems through software. I am always eager to improve my skills and work on exciting projects.
+## My Photo
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9d5d00d-5f00-42cc-9129-38abeb9b3dd8" width="220" style="border-radius:50%;" />
+</p>
+
+⭐️ Thanks for visiting my profile!
 
 <!--
 **lozi212/lozi212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
