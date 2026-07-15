@@ -1,4 +1,28 @@
-## Hi there 👋
+## Hi, I'm Loza Demeke 👋
+
+🎓 Information Systems Student at Addis Ababa University
+
+💻 Interested in:
+- Front-End Development
+- Web Development
+- UI/UX Design
+- Cybersecurity
+
+🌱 Currently learning:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+📫 Connect with me:
+- GitHub: https://github.com/yourusername
+- Email: your@email.com
+
+## About Me
+I am a passionate Information Systems student who enjoys building websites, learning new technologies, and solving real-world problems through software. I am always eager to improve my skills and work on exciting projects.
+
+⭐ Thanks for visiting my profile!
 
 <!--
 **lozi212/lozi212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
